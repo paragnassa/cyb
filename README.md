@@ -2,7 +2,7 @@
 
 ## Vision
 
-Deferential and efficient interface for the [cyber protocol](https://ipfs.io/ipfs/QmQ1Vong13MDNxixDyUdjniqqEj8sjuNEBYMyhQU4gQgq3) which answers questions (like a search engine) ~~better and faster than Google~~.
+Deferential and efficient interface for the cyber protocols which answers questions (like a search engine) ~~better and faster than Google~~.
 
 ## Features
 - search
